@@ -7,6 +7,6 @@ Mainly Powershell
 Gets username, device name, vendor, model and serial number
 
 ### Get-CE-Devices.ps1
-Exports list of mobile devices connected to O365. 
-Used as part of Cyber Essentials when Intune is not available/used by client
+Exports list of mobile devices connected to O365.  
+Used as part of Cyber Essentials when Intune is not available/used by client.  
 Combination of Get-MobileDevice & Get-MobileDeviceStatistics
